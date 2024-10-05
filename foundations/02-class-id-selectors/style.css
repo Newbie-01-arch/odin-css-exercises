@@ -1,0 +1,21 @@
+.one,.two,.three{
+    background-color: rgba(255, 0, 0, 0.3);
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+
+#first{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+
+.same{
+    font-size: 24px;
+}
+
+
+#last{
+    background-color: hsl(120, 80%, 70%);
+    font-weight: bold;
+
+}
