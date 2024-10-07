@@ -1,0 +1,6 @@
+.container p{
+    background-color: yellow;
+    color: rgba(255, 0, 0, 0.9);
+    font-size: 20px;
+    text-align: center;
+}
