@@ -17,8 +17,6 @@ img {
 .main-header{
   display: flex;
   justify-content: center;
-  align-items: center;
-  margin-top: 32px;
   gap: 52px;
 }
 
@@ -31,6 +29,10 @@ img {
   flex-wrap: wrap;
 }
 
+
+.title{
+  margin-bottom: 32px;
+}
 
 /* do not edit this footer */
 .footer {
